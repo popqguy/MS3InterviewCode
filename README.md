@@ -5,7 +5,7 @@ Parses a .csv file for client records and stores complete records on a database,
 
 
 ## Steps for getting this app running (for fellow developers)
-1.  Download and install the latest version of Java SE
+1.  Download and install the latest version of Java SE (Created using 14.0.2)
 2.  Download this repo as a zip and extract it to a folder
 3.  Place the desired .csv file into the newly created folder with the .jar file
 4.  Run the .jar file with JDK
