@@ -31,6 +31,7 @@ The output log file is fairly basic and includes a few statistics about the appl
 8.  Select Java Compiler from the list on the right and select the version noted above.
 9.  Right click JRE System Library and select properties.
 10. Select the workspace default radio button and click apply and close.
+Note: If a different version of the SDK exists on the computer attempting to run the program, use the previous 4 steps and choose the appropriate version.
 11. The two classes for this project, CSVParse and Person, can be found under the Maven project folder name > src/main/java > maven.SQLite.TestDB.
 
 ## Overview of your approach, design choices, and assumptions
