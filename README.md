@@ -36,6 +36,6 @@ Therefore, if the client deems this program as the first version and would like 
 The main shortcoming of this program, at least in terms of being scalable, is the fact that the attributes of the person class are hard coded to the columns of the assigned .csv file.
 In learning more through working at MS3, it would be my goal to learn how to programmatically create and assign values to these class attributes.
 An important aspect of this program was error trapping, since writing to a few files could have unforseen consequences.
-I believe to have done this to the fullest extent, but it is possible that I have missed some error.
-All current errors are pushed to the user in a window, and the program is stopped after.
+I believe to have done this to the fullest extent, but it is possible that I have missed some type of error.
+All current errors are pushed to the user in a window, and the program is then stopped.
 
